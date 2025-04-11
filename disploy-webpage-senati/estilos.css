@@ -1,0 +1,21 @@
+/* styles.css */
+body {
+    font-family: Arial, sans-serif; /* Cambiar la fuente */
+    background-color: #f0f8ff; /* Color de fondo */
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    text-align: center; /* Centra el texto */
+    color: #2e8b57; /* Color de texto */
+    padding-top: 50px;
+}
+
+samp {
+    display: block; /* Hace que el texto ocupe toda la línea */
+    text-align: center; /* Centra el texto */
+    font-size: 18px;
+    color: #555; /* Color de texto */
+    padding: 10px;
+}
